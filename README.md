@@ -1,1 +1,1 @@
-# CMP263_KNN
+# Atividade prática: Algoritmo k-Nearest Neighbors (KNN)
